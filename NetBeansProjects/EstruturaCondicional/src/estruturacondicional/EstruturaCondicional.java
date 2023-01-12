@@ -26,6 +26,8 @@ public class EstruturaCondicional {
         System.out.println("Sua média foi "+m);
         if (m>9) {
             System.out.println("Parabéns !!!");
+        } else {
+            System.out.println("Deu ruim...");
         }
     }
     
